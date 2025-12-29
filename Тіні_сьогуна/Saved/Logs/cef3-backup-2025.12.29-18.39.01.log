@@ -1,0 +1,4 @@
+[15980:10976:1229/202550.309:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15980:10976:1229/202550.528:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15980:10976:1229/202605.612:ERROR:device_event_log_impl.cc(196)] [20:26:04.691] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[15980:10976:1229/203901.346:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
