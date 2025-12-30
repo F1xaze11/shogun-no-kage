@@ -1,8 +1,0 @@
-[5048:12284:1228/150851.351:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5048:12284:1228/150851.388:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[5048:12284:1228/150900.180:ERROR:device_event_log_impl.cc(196)] [15:09:00.049] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[5048:12284:1228/165047.998:ERROR:device_event_log_impl.cc(196)] [16:50:47.757] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[5048:12284:1228/165050.352:ERROR:device_event_log_impl.cc(196)] [16:50:50.175] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[5048:12284:1228/182154.261:ERROR:device_event_log_impl.cc(196)] [18:21:54.035] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[5048:12284:1228/182156.594:ERROR:device_event_log_impl.cc(196)] [18:21:56.378] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[5048:12284:1228/194549.211:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
