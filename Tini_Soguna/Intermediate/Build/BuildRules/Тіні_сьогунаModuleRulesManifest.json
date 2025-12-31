@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Игра диплом\\shogun-no-kage\\Тіні_сьогуна\\Intermediate\\Source\\Тіні_сьогуна.Build.cs",
+		"D:\\Игра диплом\\shogun-no-kage\\Тіні_сьогуна\\Intermediate\\Source\\Тіні_сьогуна.Target.cs",
+		"D:\\Игра диплом\\shogun-no-kage\\Тіні_сьогуна\\Intermediate\\Source\\Тіні_сьогунаClient.Target.cs",
+		"D:\\Игра диплом\\shogun-no-kage\\Тіні_сьогуна\\Intermediate\\Source\\Тіні_сьогунаEditor.Target.cs",
+		"D:\\Игра диплом\\shogun-no-kage\\Тіні_сьогуна\\Intermediate\\Source\\Тіні_сьогунаServer.Target.cs"
+	],
+	"EngineVersion": "5.7.1"
+}

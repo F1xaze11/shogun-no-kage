@@ -1,0 +1,13 @@
+[14652:9188:1230/193747.566:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14652:9188:1230/193747.663:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14652:9188:1230/193754.180:ERROR:device_event_log_impl.cc(196)] [19:37:54.090] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[5440:14152:1230/193754.619:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7DBF2E5D4EB384515C24BAF3F4693AE9 will be ignored
+[14652:13588:1230/193755.864:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[14652:9188:1230/193756.523:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[14652:9188:1230/193756.524:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[14652:9188:1230/193756.524:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[14652:9188:1230/193756.524:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[14652:13588:1230/193756.527:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[2640:11704:1230/194002.196:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[2640:11704:1230/194002.210:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14652:9188:1230/194024.350:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
