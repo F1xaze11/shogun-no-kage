@@ -1,5 +1,5 @@
-[26452:13832:0616/210757.233:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[26452:13832:0616/210806.387:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[26452:13832:0616/210841.287:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[26452:13832:0616/210852.717:ERROR:device_event_log_impl.cc(196)] [21:08:52.391] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[26452:13832:0616/211206.353:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[13156:5320:0617/122416.120:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13156:5320:0617/122425.873:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13156:5320:0617/122452.912:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[13156:5320:0617/122502.928:ERROR:device_event_log_impl.cc(196)] [12:25:02.262] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
+[13156:5320:0617/162615.940:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
