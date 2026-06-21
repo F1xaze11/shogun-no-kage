@@ -16,4 +16,4 @@
 - Paper2D / PaperZD (2D-анімації)
 
 ## Опублікований продукт
-Інсталяційний пакет створеної гри можна завантажити з магазину [gamejolt.com](https://gamejolt.com/)
+Інсталяційний пакет створеної гри можна завантажити з магазину [gamejolt.com](https://gamejolt.com/games/The_Shadows_of_the_Shogun/1077692)
